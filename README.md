@@ -11,10 +11,10 @@
   Since,many features of the image were lost after applying Guassian Filters.So,these notebooks basically contains the image processing part which we did to restore the image and   since there was class imbalance in the dataset we also did some augmentations in the original data to balance our dataset.
   
 ## [DR 91.07% Accr](https://github.com/Ashish-Arya-CS/Detection-of-Diabetic-Retinopathy/blob/master/DR%2091.07%25%20Accr.ipynb)
-  This conatins the main model trainig part and the accessing of Model Performance.
+  This contains the main model training part and the accessing of Model Performance.
   
 ## [appstreamlit](https://github.com/Ashish-Arya-CS/Detection-of-Diabetic-Retinopathy/blob/master/appstreamlit.py)  
-  This conatins the python executable file for our model deployment on a web app.For building the web app we have used Streamlit.
+  This contains the python executable file for our model deployment on a web app.For building the web app we have used Streamlit.
   
 ## [Web_App_Launcher](https://github.com/Ashish-Arya-CS/Detection-of-Diabetic-Retinopathy/blob/master/Web_App_Launcher.ipynb)  
   This contains the web app launcher notebook.
